@@ -1,5 +1,12 @@
 <h1 align="center">Hello World, I'm Jaidon 👋</h1>
 <h3 align="center">Programmer and 3D artist from Barbados 🇧🇧</h3>
+<!-- TODO: Add shield icons here and remove the "Connect With Me" section-->
+<p align="center">
+<a href="https://www.linkedin.com/in/jaidonnelson/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/codencereal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/codencereal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:jaidonkdnelson@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
+</p>
 
 ## About Me 🙋‍♂️
 
