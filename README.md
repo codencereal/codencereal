@@ -2,13 +2,12 @@
 <h3 align="center">Programmer and 3D artist from Barbados 🇧🇧</h3>
 <!-- TODO: Add shield icons here and remove the "Connect With Me" section-->
 <p align="center">
-<a href="https://www.linkedin.com/in/jaidonnelson/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/codencereal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.instagram.com/codencereal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="mailto:jaidonkdnelson@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
+<a href="https://linkedin.com/in/jaidonnelson"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin"></img></a>
 </p>
 
 ## About Me 🙋‍♂️
+
+<!-- TODO: Make this look more engaging -->
 
 - 🔭 I’m currently working on: A habit tracker app
 - 🌱 I’m currently learning: Flutter app development and digital drawing
@@ -42,6 +41,8 @@
 </p>
 
 ## My GitHub Stats 📊
+
+<!-- TODO: Align theses so that they are below one another instead of side by side-->
 
 ![Codencereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codencereal&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codencereal&theme=dark)
