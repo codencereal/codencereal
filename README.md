@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jaidon - Programmer and 3D artist 👋
 
 <!--
 **codencereal/codencereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+### Languages and Tools
+-->
+
+- 🔭 I’m currently working on: A habit tracker app
+- 🌱 I’m currently learning: Flutter app development and digital drawing
+- 🌴 I also want to learn: Game engine development, data structures and algorithms, C++
+- 🥅 Goals for 2022: Publish 5 commits every week
+- ⚡ Fun fact: I enjoy learning foriegn languages and I'm currently learning Spanish
