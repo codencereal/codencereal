@@ -1,23 +1,7 @@
-### Jaidon - Programmer and 3D artist 👋
+<h1 align="center">Hello World, I'm Jaidon 👋</h1>
+<h3 align="center">Programmer and 3D artist from Barbados 🇧🇧</h3>
 
-<!--
-**codencereal/codencereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-### Languages and Tools
--->
+## About Me 🙋‍♂️
 
 - 🔭 I’m currently working on: A habit tracker app
 - 🌱 I’m currently learning: Flutter app development and digital drawing
@@ -25,4 +9,32 @@ Here are some ideas to get you started:
 - 🥅 Goals for 2022: Publish 5 commits every week
 - ⚡ Fun fact: I enjoy learning foriegn languages and I'm currently learning Spanish
 
+## Connect With Me 🤝
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jaidonnelson/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/codencereal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/codencereal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:jaidonkdnelson@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
+</p>
+
+## Languages and Technologies 👨‍💻
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>  
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img src="https://img.icons8.com/officel/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+</p>
+
+## My GitHub Stats 📊
+
 ![Codencereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codencereal&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codencereal&theme=dark)
