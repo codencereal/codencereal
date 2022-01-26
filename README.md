@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning: Flutter app development and digital drawing
 - 🌴 I'm interested in learning: Game engine development, data structures and algorithms, C++
 - 🥅 Goals for 2022: Publish 5 commits every week
-- ⚡ Fun fact: I enjoy learning foriegn languages and I'm currently learning Spanish
+- ⚡ Fun fact: I enjoy learning foreign languages and I'm currently learning Spanish
 
 ## Languages and Technologies 👨‍💻
 
