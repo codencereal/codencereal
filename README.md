@@ -41,4 +41,5 @@
 <!-- TODO: Align these so that they are below one another instead of side by side-->
 
 ![Codencereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codencereal&theme=dark)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codencereal&theme=dark)
