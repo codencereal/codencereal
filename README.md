@@ -42,4 +42,4 @@
 
 ![Codencereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codencereal&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codencereal&theme=dark)
+![Codencereal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codencereal&theme=dark&layout=compact)
