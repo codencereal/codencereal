@@ -12,7 +12,7 @@
 
 <!-- TODO: Make this look more engaging -->
 
-- 🔭 I’m currently working on: [A movie and tv show search app](https://github.com/codencereal/movie-search-site)
+- 🔭 I’m currently working on: [A habit tracker app](https://github.com/codencereal/simpl-habits)
 - 🌱 I’m currently learning: Flutter app development and React
 - 🌴 I'm interested in learning: Game engine development, data structures and algorithms, C++
 - 🥅 Goals for 2022: Publish 5 meaningful commits every week
