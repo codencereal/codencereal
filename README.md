@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=262626"></img>
   <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=262626"></img>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=262626"></img>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=262626"></img>
 </div>
 
 ## My GitHub Stats 📊
