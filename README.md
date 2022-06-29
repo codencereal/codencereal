@@ -12,11 +12,10 @@
 
 <!-- TODO: Make this look more engaging -->
 
-- 🔭 I’m currently working on: [A habit tracker app](https://github.com/codencereal/simpl-habits)
-- 🌱 I’m currently learning: Flutter app development and React
-- 🌴 I'm interested in learning: Game engine development, data structures and algorithms, C++
-- 🥅 Goals for 2022: Publish 5 meaningful commits every week
-- ⚡ Fun fact: I enjoy learning foriegn languages and I'm currently learning Spanish
+- 🔭 I’m currently working on: Nothing :/
+- 🌱 I’m currently learning: C
+- 🌴 I'm interested in learning: Game engine development, data structures and algorithms, C and C++
+- ⚡ Fun fact: I enjoy learning foreign languages and I'm currently learning Spanish
 
 ## Languages and Technologies 👨‍💻
 
@@ -27,8 +26,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=262626"></img>
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&labelColor=262626"></img>
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=1DA1F2&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=3ba9f7&labelColor=262626"></img>
   <br>
   <br>
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=262626"></img>
