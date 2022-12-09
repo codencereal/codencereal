@@ -13,7 +13,7 @@
 <!-- TODO: Make this look more engaging -->
 
 - 🔭 I’m currently working on: Nothing :/
-- 🌱 I’m currently learning: C
+- 🌱 I’m currently learning: Flutter and Dart
 - 🌴 I'm interested in learning: Game engine development, data structures and algorithms, C and C++
 - ⚡ Fun fact: I enjoy learning foreign languages and I'm currently learning Spanish
 
