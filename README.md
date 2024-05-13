@@ -5,7 +5,6 @@
   <a href="https://www.twitter.com/codencereal"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
   <a href="https://www.instagram.com/codencereal"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
   <a href="mailto:jaidonkdnelson@gmail.com"><img src="https://img.shields.io/badge/Email-%234A7DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/codencereal"><img src=https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
 </div>
 
 ## About Me 🙋‍♂️
