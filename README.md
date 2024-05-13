@@ -10,12 +10,12 @@
 
 ## About Me 🙋‍♂️
 
-<!-- TODO: Make this look more engaging -->
+<!-- TODO: Make this section look more engaging -->
 
-- 🔭 I’m currently working on: Nothing :/
-- 🌱 I’m currently learning: Flutter and Dart
+- 🔭 I’m currently working on: An online manga scraper
+- 🌱 I’m currently learning: C programming
 - 🌴 I'm interested in learning: Game engine development, data structures and algorithms, C and C++
-- ⚡ Fun fact: I enjoy learning foreign languages and I'm currently learning Spanish
+- ⚡ Fun fact: I enjoy learning foreign languages 
 
 ## Languages and Technologies 👨‍💻
 
@@ -33,11 +33,3 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=262626"></img>
   <img src="https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=262626"></img>
 </div>
-
-## My GitHub Stats 📊
-
-<!-- TODO: Align these so that they are below one another instead of side by side-->
-
-![Codencereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codencereal&theme=dark)
-<br>
-![Codencereal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codencereal&theme=dark&layout=compact)
