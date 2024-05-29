@@ -11,9 +11,9 @@
 
 <!-- TODO: Make this section look more engaging -->
 
-- 🔭 I’m currently working on: An online manga scraper
-- 🌱 I’m currently learning: C programming
-- 🌴 I'm interested in learning: Game engine development, data structures and algorithms, C and C++
+- 🛠 I’m currently working on: A database demo application 
+- 🧠 I’m currently learning: SQL
+- 🌴 Areas of interest: Graphics programming, Game engine development, application development
 - ⚡ Fun fact: I enjoy learning foreign languages 
 
 ## Languages and Technologies 👨‍💻
