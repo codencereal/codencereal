@@ -11,7 +11,7 @@
 
 <!-- TODO: Make this section look more engaging -->
 
-- 🛠 I’m currently working on: A database demo application 
+- 🛠 I’m currently working on: A database demo application and a simple game engine
 - 🧠 I’m currently learning: SQL
 - 🌴 Areas of interest: Graphics programming, Game engine development, application development
 - ⚡ Fun fact: I enjoy learning foreign languages 
