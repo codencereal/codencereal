@@ -13,7 +13,6 @@
 - 🛠 I’m currently working on: A database demo application and [a simple game engine](https://github.com/codencereal/mauby-engine)
 - 🧠 I’m currently learning: SQL
 - 🌴 Areas of interest: Graphics programming, Game engine development, application development
-- ⚡ Fun fact: I enjoy learning foreign languages 
 
 ## Languages and Technologies 👨‍💻
 
