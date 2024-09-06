@@ -10,8 +10,8 @@
 
 <!-- TODO: Make this section look more engaging -->
 
-- 🛠 I’m currently working on: A database demo application and [a simple game engine](https://github.com/codencereal/mauby-engine)
-- 🧠 I’m currently learning: SQL
+- 🛠 I’m currently working on: [A simple game engine](https://github.com/codencereal/mauby-engine)
+- 🧠 I’m currently learning: OpenGL, data structures, linear algebra
 - 🌴 Areas of interest: Graphics programming, Game engine development, application development
 
 ## Languages and Technologies 👨‍💻
