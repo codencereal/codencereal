@@ -10,7 +10,7 @@
 
 <!-- TODO: Make this section look more engaging -->
 
-- 🛠 I’m currently working on: [A simple game engine](https://github.com/codencereal/mauby-engine)
+- 🛠 I’m currently working on: Game engine and Personal finance management app
 - 🧠 I’m currently learning: OpenGL, data structures, linear algebra
 - 🌴 Areas of interest: Graphics programming, Game engine development, application development
 
