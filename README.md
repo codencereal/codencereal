@@ -2,8 +2,6 @@
 <h3 align="center">Programmer and 3D artist from Barbados 🇧🇧</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/jaidonnelson"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn"></img></a>
-  <a href="https://www.twitter.com/codencereal"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-  <a href="mailto:jaidonkdnelson@gmail.com"><img src="https://img.shields.io/badge/Email-%234A7DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ## About Me 🙋‍♂️
