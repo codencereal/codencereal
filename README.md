@@ -1,30 +1,17 @@
-<h1 align="center">Hello World, I'm Jaidon 👋</h1>
-<h3 align="center">Programmer and 3D artist from Barbados 🇧🇧</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jaidonnelson"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn"></img></a>
-</div>
+# Hi, I'm Jaidon 👋
 
-## About Me 🙋‍♂️
+Programmer and 3D artist from Barbados 🇧🇧
 
-<!-- TODO: Make this section look more engaging -->
+## About Me
+My interests include:
+- Computer graphics
+- Game engines
+- Reverse engineering and decompilation
+- App development
 
-- 🛠 I’m currently working on: Game engine and Personal finance management app
-- 🧠 I’m currently learning: OpenGL, data structures, linear algebra
-- 🌴 Areas of interest: Graphics programming, Game engine development, application development
+## Languages and Tools
+![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,flutter,dart,python,linux,bash)
 
-## Languages and Technologies 👨‍💻
+![My Skills](https://skillicons.dev/icons?i=blender,figma,obsidian)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=48B0F1&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/SASS/SCSS-%23CC6699?style=for-the-badge&logo=sass&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=1DA1F2&labelColor=262626"></img>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=262626"></img>
-  <img src="https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=262626"></img>
-</div>
+<!-- Add a favourite projects section -->
